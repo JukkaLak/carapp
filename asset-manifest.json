@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JukkaLak/carapp/static/css/main.0597ef04.css",
+    "main.js": "/JukkaLak/carapp/static/js/main.9524ab18.js",
+    "static/js/787.22ea9dd3.chunk.js": "/JukkaLak/carapp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/JukkaLak/carapp/index.html",
+    "main.0597ef04.css.map": "/JukkaLak/carapp/static/css/main.0597ef04.css.map",
+    "main.9524ab18.js.map": "/JukkaLak/carapp/static/js/main.9524ab18.js.map",
+    "787.22ea9dd3.chunk.js.map": "/JukkaLak/carapp/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.9524ab18.js"
+  ]
+}
